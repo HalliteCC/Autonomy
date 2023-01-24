@@ -1,15 +1,15 @@
 <resources>
     <string name="app_name">Mainproject</string>
     <string name="hello_world">Hello World</string>
-    <string name="distance">Distancia</string>
-    <string name="total_km">Total de quilometros</string>
-    <string name="price">Preço</string>
-    <string name="price_per_liter">Preço por litro</string>
-    <string name="autonomy">Autonomia</string>
-    <string name="km_s_por_liter">KM\'s por Litro</string>
-    <string name="total_cost">Seu gasto total será de:</string>
-    <string name="valor_total">R$ 0</string>
-    <string name="calculate">CALCULAR</string>
-    <string name="travel_cost">Custo de Viagem</string>
-    <string name="alert">Preencha os campos corretamente</string>
+    <string name="distance">Distance</string>
+    <string name="total_km">Total of kilometers</string>
+    <string name="price">Price</string>
+    <string name="price_per_liter">Price per liter</string>
+    <string name="autonomy">Autonomy</string>
+    <string name="km_s_por_liter">KM\'s per Liter</string>
+    <string name="total_cost">The total cost will be:</string>
+    <string name="valor_total">$ 0</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="travel_cost">Travels cost</string>
+    <string name="alert">Fill in all the fields correctly</string>
 </resources>
